@@ -1,0 +1,13 @@
+C:\Users\Geno\dev\personal\GiveMeMoney\GiveMeMoney\bin\Debug\netcoreapp3.1\GiveMeMoney.exe
+C:\Users\Geno\dev\personal\GiveMeMoney\GiveMeMoney\bin\Debug\netcoreapp3.1\GiveMeMoney.deps.json
+C:\Users\Geno\dev\personal\GiveMeMoney\GiveMeMoney\bin\Debug\netcoreapp3.1\GiveMeMoney.runtimeconfig.json
+C:\Users\Geno\dev\personal\GiveMeMoney\GiveMeMoney\bin\Debug\netcoreapp3.1\GiveMeMoney.runtimeconfig.dev.json
+C:\Users\Geno\dev\personal\GiveMeMoney\GiveMeMoney\bin\Debug\netcoreapp3.1\GiveMeMoney.dll
+C:\Users\Geno\dev\personal\GiveMeMoney\GiveMeMoney\bin\Debug\netcoreapp3.1\GiveMeMoney.pdb
+C:\Users\Geno\dev\personal\GiveMeMoney\GiveMeMoney\obj\Debug\netcoreapp3.1\GiveMeMoney.csprojAssemblyReference.cache
+C:\Users\Geno\dev\personal\GiveMeMoney\GiveMeMoney\obj\Debug\netcoreapp3.1\GiveMeMoney.AssemblyInfoInputs.cache
+C:\Users\Geno\dev\personal\GiveMeMoney\GiveMeMoney\obj\Debug\netcoreapp3.1\GiveMeMoney.AssemblyInfo.cs
+C:\Users\Geno\dev\personal\GiveMeMoney\GiveMeMoney\obj\Debug\netcoreapp3.1\GiveMeMoney.csproj.CoreCompileInputs.cache
+C:\Users\Geno\dev\personal\GiveMeMoney\GiveMeMoney\obj\Debug\netcoreapp3.1\GiveMeMoney.dll
+C:\Users\Geno\dev\personal\GiveMeMoney\GiveMeMoney\obj\Debug\netcoreapp3.1\GiveMeMoney.pdb
+C:\Users\Geno\dev\personal\GiveMeMoney\GiveMeMoney\obj\Debug\netcoreapp3.1\GiveMeMoney.genruntimeconfig.cache
